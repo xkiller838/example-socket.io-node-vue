@@ -1,4 +1,4 @@
-# xkiller838-xkiller838-example-socket.io-node-vue
+# Socket.io-node-vue
 ejemplo de usos de socket.io en node y vue
 # Este proyecto es un ejemplo simple de uso de socket.io 
 el proyecto esta hecho en node 18 ultima version hasta el momento
